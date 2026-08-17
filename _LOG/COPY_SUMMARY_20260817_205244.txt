@@ -1,0 +1,35 @@
+﻿SUZUKI SEMARANG CENTER - ASSET COPY SUMMARY
+============================================
+
+Tanggal:
+08/17/2026 20:52:44
+
+SUMBER:
+D:\Papah\suzukisemarangcenter\TRADA_RAW
+
+ASSET MAP:
+C:\Users\ASUS\Downloads\SUZUKI_CENTER_ASSET_MAP_FINAL.csv
+
+TUJUAN:
+D:\Papah\suzukisemarangcenter\SUZUKI_CENTER_ASSETS_FINAL
+
+Total baris map:
+637
+
+Berhasil dicopy:
+568
+
+Missing:
+0
+
+Failed:
+21
+
+Skipped / archive / sudah ada:
+48
+
+Total ukuran berhasil dicopy:
+186.35 MB
+
+LOG:
+D:\Papah\suzukisemarangcenter\SUZUKI_CENTER_ASSETS_FINAL\_LOG\COPY_LOG_20260817_205244.csv

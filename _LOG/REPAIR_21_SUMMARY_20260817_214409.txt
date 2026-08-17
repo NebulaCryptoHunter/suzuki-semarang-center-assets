@@ -1,0 +1,29 @@
+﻿SUZUKI SEMARANG CENTER - REPAIR 21 FAILED ASSETS
+=================================================
+
+Tanggal:
+08/17/2026 21:44:09
+
+Sumber:
+D:\Papah\suzukisemarangcenter\TRADA_RAW
+
+Tujuan:
+D:\Papah\suzukisemarangcenter\SUZUKI_CENTER_ASSETS_FINAL
+
+Total target:
+21
+
+Copied:
+21
+
+Already OK:
+0
+
+Failed/Missing:
+0
+
+Ukuran repaired/verified:
+0.26 MB
+
+LOG:
+D:\Papah\suzukisemarangcenter\SUZUKI_CENTER_ASSETS_FINAL\_LOG\REPAIR_21_LOG_20260817_214409.csv
